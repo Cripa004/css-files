@@ -1,0 +1,49 @@
+body{ 
+    background-color: rgb(30, 210, 84);
+    color: aqua;
+    background-image:url('.vscode/930px-Desktop.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+
+} 
+h1{
+    background-color: rgb(255, 196, 196);
+    color: rgb(246, 25, 43);
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 2px 1px olive;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+h2{
+    background-color: rgb(255, 0, 21);
+    color: brown;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16 px;
+}
+p{
+    color: rgb(107, 19, 40);
+    font-size: 16px;
+    text-align: justify;
+    text-indent: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+a{
+  font-family: 'Times New Roman', Times, serif;  
+  font-size: 18px;
+  background-color: rgb(43, 226, 150);
+  color: black;
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  text-decoration:none;
+}
+a:hover{
+    background-color: rgb(138, 165, 42);
+
+}
